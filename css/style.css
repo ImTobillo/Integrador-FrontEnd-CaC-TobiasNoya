@@ -5,3 +5,24 @@ html {
 .fondo-header {
     background-color: #353A40;
 }
+
+.nav-item {
+    white-space: nowrap;
+}
+
+.marginNav {
+    margin-right: 4.5em;
+    margin-left: 4.5em;
+}
+
+li {
+    font-size: large;
+}
+
+nav {
+    font-weight: 500;
+}
+
+.textoCarousel{
+    position: relative;
+}
