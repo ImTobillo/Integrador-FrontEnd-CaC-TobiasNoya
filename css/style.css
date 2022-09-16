@@ -24,5 +24,10 @@ nav {
 }
 
 .textoCarousel{
+    position: absolute;
+    
+}
+
+.sectionCarousel{
     position: relative;
 }
