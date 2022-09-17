@@ -38,3 +38,11 @@ nav {
 .subtitulo {
     text-align: center;
 }
+
+.fondo-azul{
+    background-color: #1A3745;
+}
+
+.formulario{
+    left: 20%;
+}
