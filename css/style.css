@@ -23,9 +23,12 @@ nav {
     font-weight: 500;
 }
 
-.textoCarousel{
+.infoCarousel{
     position: absolute;
-    
+    top: 30%;
+    right: 10%;
+    text-align: end;
+    width: 38%;
 }
 
 .sectionCarousel{
