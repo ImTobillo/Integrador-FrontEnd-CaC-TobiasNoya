@@ -24,16 +24,49 @@ nav {
     font-weight: 500;
 }
 
-.infoCarousel{
-    position: absolute;
-    top: 10%;
-    right: 10%;
-    text-align: end;
-    width: 38%;
+/* small 1 */
+
+@media (min-width: 500px){
+    .infoCarousel{
+        position: absolute;
+        top: 10%;
+        right: 10%;
+        text-align: end;
+        width: 70%;
+        font-size: small;
+    }
+}
+
+/* small 2 */
+
+@media (min-width: 600px){ 
+    .infoCarousel{
+        width: 60%;
+        font-size: medium;
+    }
+}
+
+/* medium */
+
+@media (min-width: 768px){ 
+    .infoCarousel{
+        top: 20%;
+        width: 40%;
+    }
+}
+
+/* large */
+
+@media (min-width: 992px){ 
+    .infoCarousel{
+        top: 40%;
+        font-size: large;
+    }
 }
 
 .sectionCarousel{
     position: relative;
+    display: inline-block;
 }
 
 .subtitulo {
