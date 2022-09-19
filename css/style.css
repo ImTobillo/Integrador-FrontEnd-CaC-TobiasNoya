@@ -24,6 +24,11 @@ nav {
     font-weight: 500;
 }
 
+footer li{
+    font-size: small;
+    font-weight: 500;
+}
+
 /* extra-small 1*/
 
 @media (min-width: 300px){
