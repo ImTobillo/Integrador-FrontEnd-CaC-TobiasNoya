@@ -24,14 +24,36 @@ nav {
     font-weight: 500;
 }
 
+/* extra-small 1*/
+
+@media (min-width: 300px){
+    .infoCarousel{
+        position: absolute;
+        top: 10%;
+        right: 2%;
+        text-align: end;
+        width: 95%;
+        font-size: xx-small;
+    }
+}
+
+/* extra-small 2 */
+
+@media (min-width: 400px){
+    .infoCarousel{
+        top: 15%;
+        right: 5%;
+        width: 90%;
+        font-size: xx-small;
+    }
+}
+
 /* small 1 */
 
 @media (min-width: 500px){
     .infoCarousel{
-        position: absolute;
         top: 10%;
         right: 10%;
-        text-align: end;
         width: 70%;
         font-size: small;
     }
