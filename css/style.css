@@ -1,6 +1,7 @@
-html {
+html, body {
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 .fondo-negro {
@@ -9,11 +10,6 @@ html {
 
 .nav-item {
     white-space: nowrap;
-}
-
-.marginNav {
-    margin-right: 4.5em;
-    margin-left: 4.5em;
 }
 
 li {
@@ -31,8 +27,8 @@ footer li{
 }
 
 .footer-lista{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 /* extra-small 1*/
