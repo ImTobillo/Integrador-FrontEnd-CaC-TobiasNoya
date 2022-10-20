@@ -17,6 +17,7 @@ function calcular(e)
         totalAPagar = (200 - 200 * 0.15) * cantidad;
 
     spanTotalAPagar.innerHTML = totalAPagar;
+    console.log(totalAPagar);
 }
 
 formulario.onsubmit = calcular;
