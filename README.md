@@ -1,2 +1,2 @@
-# HOLA
-**ESTE REPOSITORIO ES PARA MI PROYECTO FRONT-END DE CODO A CODO**
+# Hola!
+**Este repositorio es de un proyecto Front-End de Codo a Codo**
